@@ -1,0 +1,41 @@
+* {
+	box-sizing: border-box;
+	margin: 0;
+	padding:0;
+}
+
+._orange {
+	color: #FF5D39;
+}
+
+.block570-marg {
+	margin-right: 2.564%;
+}
+/* ----------------bottom_________________________ */
+.block1170_news {
+	width: 60.9375%;
+	margin: 0 19.53125%;	
+}
+
+.bottom-wrap {
+	height: 470px;
+	background: #1E1F28;	
+}
+.bottom-block {
+	margin-top: 75px;
+	display: inline-block;
+
+	width: 22.436%;
+}
+.bottom-block__h3 {
+	font-weight: 500px;
+	font-size: 18px;
+	line-height: 30px;
+	color: #fff;
+}
+.bottom-block__span {
+	font-size: 14px;
+	color: #8890A1;	
+	display: inline-block;
+	line-height: 40px;
+}

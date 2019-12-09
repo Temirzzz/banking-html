@@ -1,0 +1,209 @@
+* {
+	box-sizing: border-box;
+	margin: 0;
+	padding:0;
+}
+
+.container {
+	width: 1920px;
+	font-family: sans-serif;
+	margin: 0 auto;
+}
+._orange {
+	color: #FF5D39;
+	font-weight: bold;
+}
+
+/* _________________**____________________ */
+
+
+
+.block1170 {
+	width: 60.9375%;
+	min-height: 500px;
+	margin: 0 auto;
+}
+
+.wrapper {
+	display: inline-block;
+	float: left;
+}
+.block570 {
+	width: 48.7179%;	
+}
+.block570-marg {
+	margin-right: 2.564%;
+}
+
+.info-block2__head {
+	margin: 50px 0 20px 0; 
+
+}
+.info-block2__head img{
+	width: 25px;
+	height: 15px;
+	margin-right: 10px;
+}
+
+.info-block__date {
+	margin-left: 10px;
+	font-weight: bold;
+	color: #8890A1;
+}
+
+.info-block2__currency {
+	margin: 30px 0 0 29px;
+}
+.info-block2__currency span{
+	font-weight: bold;
+}
+.info-block2__currency2 span{
+	font-weight: bold;
+}
+
+.info-block2__item1 {
+	font-size: 18px;
+	letter-spacing: 0.05em;
+	text-transform: uppercase;
+	color: #8890A1;
+}
+.info-block2__item2 {
+	margin: 0 50px;
+}
+.info-block2__item3 {
+	margin-right: 40px;
+}
+.info-block2__item6 {
+	margin-left: 40px;
+}
+.info-block2__currency2 {
+	margin: 30px 0 0 29px;
+}
+
+.block570-wrap-right, .block570-wrap-left {
+	height: 360px;
+	border: 1px solid rgba(136, 144, 161, 0.2);
+	display: inline-block;
+	width: 100%;
+}
+.info-block2__ul li{
+	display: inline-block;
+	text-transform: uppercase;
+	font-size: 12px;
+	letter-spacing: 0.05em;
+	margin: 45px 0 12px 35px;
+}
+
+.info-block__item1 {
+	text-transform: uppercase;
+	color: rgba(255, 255, 255, 0.5);
+	margin: 35px 0 0 30px;
+	font-size: 12px;
+	display: inline-block;
+}
+.info-block__item2 {
+	color: #fff;
+	font-weight: bold;
+	font-size: 25px;
+	margin: 47px 0 14px 29px;
+	max-width: 343px;
+	display: inline-block;
+}
+
+.info-block__item3 {
+	font-size: 14px;
+	color: #fff;
+	margin: 0 10px 0 29px;
+	line-height: 20px;
+}
+.info-block__bot {
+	height: 70px;
+	background: rgba(136, 144, 161, 0.1);
+	border: 1px solid rgba(136, 144, 161, 0.2);
+}
+
+.info-block__bot-item1 {
+	margin: 20px 30% 20px 29px;
+	font-size: 18px;
+	line-height: 30px;
+	color: #8890A1;
+	display: inline-block;
+}
+.info-block__bot-item2 {
+	margin: 20px 50% 20px 29px;
+	font-size: 18px;
+	line-height: 30px;
+	color: #8890A1;
+	display: inline-block;
+}
+
+.header-line {
+	border-bottom: 1px solid rgba(136, 144, 161, 0.2);
+	width: 90%;
+	text-align: center;
+	margin-left: 5%;
+}
+
+.info-block2__head1 {
+	margin: 50px 0 15px 0; 
+	font-weight: bold;
+}
+
+.gold-coin {
+	float: left;
+	display: block;	
+}
+.gold-coin img {
+	margin: 30px 40px 25px 30px;
+	float: left;
+}
+.silver-coin {
+	float: left;
+	display: block;
+}
+.silver-coin img {
+	margin: 0 40px 0 30px;
+	float: left;
+}
+.gold-coin__item1 {
+	display: inline-block;
+	margin: 30px 145px 16px 0;
+	font-size: 18px;
+	line-height: 20px;
+	color: #8890A1;
+}
+.gold-coin__item2 {
+	display: inline-block;
+	margin-right: 106px;
+	font-size: 18px;
+}
+.gold-coin__item3 {
+	display: inline-block;
+	margin-right: 60px;
+	font-size: 18px;
+}
+.gold-coin__item4 {
+	display: inline-block;
+	font-size: 18px;
+}
+.silver-coin__item1 {
+	display: inline-block;
+	margin: 10px 145px 16px 0;
+	font-size: 18px;
+	line-height: 20px;
+	color: #8890A1;
+}
+.silver-coin__item2 {
+	display: inline-block;
+	margin-right: 106px;
+	font-size: 18px;
+}
+.silver-coin__item3 {
+	display: inline-block;
+	margin-right: 60px;
+	font-size: 18px;
+}
+.silver-coin__item4 {
+	display: inline-block;
+	font-size: 18px;
+}

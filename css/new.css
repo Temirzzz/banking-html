@@ -1,0 +1,156 @@
+* {
+	box-sizing: border-box;
+	margin: 0;
+	padding:0;
+}
+
+._orange {
+	color: #FF5D39;
+}
+
+.block570-marg {
+	margin-right: 2.564%;
+}
+.container {
+	width: 1920px;
+	font-family: sans-serif;
+}
+
+
+/* -------------------------**------------------------- */
+
+.block1170_news {
+	width: 60.9375%;
+	margin: 0 19.53125%;	
+}
+.news-block1 {
+	position: relative;
+	width: 770px;
+	height: 380px;
+	background: #F4F4F6;
+	float: left;
+}
+.news-block1 img {
+	position: absolute;
+	bottom: 0;
+	right: 0;
+}
+.wrap {
+	margin-top: 57px;
+}
+.wrap h2 {
+	padding-top: 57px;
+	margin: 0 0 10px 40px;
+	width: 249px;
+	height: 60px;
+	font-size: 25px;
+	line-height: 30px;
+	color: #000000;
+}
+.wrap p{
+	width: 341px;
+	height: 40px;
+	font-size: 14px;
+	color: #8890A1;
+	margin-left: 40px;
+	padding-top: 60px;
+	font-weight: bold;
+}
+.news-block2 {
+	position: relative;
+	width: 360px;
+	height: 380px;
+	background: #F4F4F6;
+	float: left;
+}
+
+.news-block2 h2 {
+	padding-top: 57px;
+	margin: 0 0 10px 40px;
+	width: 281px;
+	height: 60px;
+	font-size: 25px;
+	line-height: 30px;
+	color: #000000;
+}
+.news-block2 p{
+	width: 341px;
+	height: 40px;
+	font-size: 14px;
+	color: #8890A1;
+	margin-left: 40px;
+	padding-top: 60px;
+	font-weight: bold;
+}
+.news-block2 img {
+	float: right;
+	position: absolute;
+	right: 0;
+	bottom: 0;
+}
+
+.news-block3 {
+	margin-top: 30px;
+	width: 360px;
+	height: 380px;
+	background: #F4F4F6;
+	float: left;
+	position: relative;
+}
+
+.news-block3 h2 {
+	margin: 57px 0 10px 40px;
+	width: 253px;
+	height: 90px;
+	font-weight: bold;
+	font-size: 25px;
+	line-height: 30px;
+	color: #000000;
+}
+.news-block3 p{
+	width: 231px;
+	height: 80px;
+	font-weight: bold;
+	font-size: 14px;
+	color: #8890A1;
+	margin-left: 40px;
+}
+.news-block3 img {
+	position: absolute;
+	bottom: 0;
+	right: 0;
+}
+.news-block4 {
+	position: relative;
+	margin-top: 30px;
+	width: 770px;
+	height: 380px;
+	background: #F4F4F6;
+	float: left;
+}
+.news-block4 img {
+	float: right;
+	position: absolute;
+	right: 0;
+	bottom: 0;
+}
+
+.news-block4 h2 {
+	padding-top: 57px;
+	margin: 0 0 10px 40px;
+	width: 266px;
+	height: 60px;
+	font-size: 25px;
+	color: #000000;
+}
+.news-block4 p{
+	width: 385px;
+	height: 40px;
+	font-size: 14px;
+	color: #8890A1;
+	margin-left: 40px;
+	padding-top: 60px;
+	font-weight: bold;
+}
+
+
